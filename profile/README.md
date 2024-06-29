@@ -27,10 +27,6 @@ Toucus is a chat application that brings together people with shared interests. 
 
 - **Discord Server**: [Join us on Discord](https://discord.gg/qnKM4hNUN8)
 
-### Contributing
-
-We welcome contributions from the community! Please check our [contribution guidelines](CONTRIBUTING.md) for more information.
-
 ### Contact Us
 
 For support or inquiries, please reach out to us at support@toucus.com.

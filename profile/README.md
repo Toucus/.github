@@ -8,7 +8,7 @@ Toucus is a chat application that brings together people with shared interests. 
 
 ### Access Our App
 
-- **Backend API URL**: [https://dev.toucus.com](https://api.toucus.com)
+- **Backend API URL**: [https://dev.toucus.com](https://dev.toucus.com)
 - **Frontend URL**: [https://toucus.com](https://toucus.com)
 
 ### Features
